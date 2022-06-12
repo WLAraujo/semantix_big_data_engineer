@@ -4,6 +4,6 @@ Repositório com os arquivos referentes ao treinamento da semantix de big data e
 
 O treinamento usa como principal recurso educacional containers e redes de containers para simular clusters e ambientes que possuam ferramentas de big data amplamente utilizadas.
 
-Na pasta `docker-bigdata` temos um arquivo `docker-compose` que possui uma simula uma estrutura de cluster com várias ferramentas distribuídas em nós diferentes. Esse "cluster" foi usado durante o primeiro curso do treinamento Big Data Foundations. Para entender melhor sua arquitetura acesse a imagem `ecosystem.jpeg`. As ferramentas que foram usadas nesse curso foram: Hadoop, HDFS, Hive, Sqoop, HBase e Spark.
+Na pasta `docker-bigdata` temos um arquivo `docker-compose` que possui uma simula uma estrutura de cluster com várias ferramentas distribuídas em nós diferentes. Esse "cluster" foi usado durante o primeiro curso do treinamento Big Data Foundations. Para entender melhor sua arquitetura acesse a imagem `ecosystem.jpeg`. As ferramentas que foram usadas nesse curso foram: Hadoop, HDFS, Hive, Sqoop, HBase e Spark. Todos os arquivos e nessa pasta foram copiados do professor do curso [Rodrigo Rebouças](https://github.com/rodrigo-reboucas/docker-bigdata).
 
 O segundo treinamento, Mongo DB Básico, usou o `docker-compose` contido na pasta `ambiente-mongo` e passou por diversos tópicos e operações possíveis no Mongo, também apresentando noções que NoSQL.
